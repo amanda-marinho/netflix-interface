@@ -1,0 +1,17 @@
+:root {
+  --vermelho: #e50914;
+  --preto: #141414;
+}
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+header .container {
+}
