@@ -48,7 +48,7 @@ header nav a:hover {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
     url("/img/capa.jpg");
 
-  height: 500px;
+  height: 35em;
   background-size: cover;
 
   display: flex;
@@ -59,8 +59,34 @@ header nav a:hover {
 
 .filme-principal .descricao {
   margin-bottom: 30px;
+  margin-top: 15px;
 }
 
-.titulo {
+.filme-principal .titulo {
+  margin-top: 15%;
   font-size: 35px;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+.botao {
+  background-color: rgba(19, 19, 19, 0.5);
+  border: none;
+  color: white;
+  border-radius: 5px;
+
+  padding: 15px 30px;
+  margin-left: 15px;
+  font-size: 12px;
+
+  cursor: pointer;
+  transition: 0.3s ease all;
+}
+
+.botao:hover {
+  background-color: white;
+  color: black;
+}
+
+.botao i {
+  margin-right: 8px;
 }
