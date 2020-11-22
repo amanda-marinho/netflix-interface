@@ -14,7 +14,7 @@
 
 body {
   background: var(--preto);
-  font-family: "Times New Roman", Times, serif;
+  font-family: Arial, Helvetica, sans-serif;
   color: white;
 }
 
@@ -27,9 +27,7 @@ header .container {
 
 header .logo {
   margin-left: 5px;
-  color: var(--vermelho);
-  font-family: Arial, Times;
-  font-size: 40px;
+  width: 30%;
 }
 
 header nav a {
@@ -97,7 +95,7 @@ header nav a:hover {
 }
 
 .filme-principal .container {
-  width: 60%;
+  width: 80%;
 }
 
 /* CARROSEL */
@@ -106,4 +104,8 @@ header nav a:hover {
   height: 100%;
   width: 100%;
   display: block;
+}
+
+.carrosel-filmes {
+  margin-top: 10px;
 }
