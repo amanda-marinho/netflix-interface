@@ -13,3 +13,9 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 [Logo maker](https://www.festisite.com/logo/maker/)
 
 [Logo designs](https://flamingtext.com/Free-Logo-Designs)
+
+[The Movie DataBase](https://www.themoviedb.org/)
+
+[Font Awesome](https://fontawesome.com/)
+
+[Owl Carousel](https://owlcarousel2.github.io/)
