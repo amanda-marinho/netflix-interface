@@ -46,7 +46,7 @@ header nav a:hover {
 .filme-principal {
   font-size: 18px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url("/img/capa.jpg");
+    url("https://image.tmdb.org/t/p/original/pw2ulGFMUGUzvKME0Ln1gbNj4MU.jpg");
 
   height: 35em;
   background-size: cover;
@@ -55,6 +55,7 @@ header nav a:hover {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  margin-bottom: 10px;
 }
 
 .filme-principal .descricao {
